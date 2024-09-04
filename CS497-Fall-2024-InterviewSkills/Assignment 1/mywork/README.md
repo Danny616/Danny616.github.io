@@ -10,9 +10,9 @@
 - Approach: Perform a binary search on the smaller array to find the correct partition such that the left and right partitions of the combined arrays are balanced. Calculate the median based on the partition values.
 - Time Complexity: The solution operates in O(log(m + n)) time, where m and n are the sizes of the two arrays, due to the binary search on the smaller array.
 
-**Problem 4:** 
-- Approach:
-- Time Complexity:
+**Problem 4:** The solution removes the nth node from the end of a singly-linked list using a two-pointer approach.
+- Approach: A dummy node is used alongside two pointers (fast and slow), with the fast pointer moved n+1 steps ahead to identify and remove the nth node from the end efficiently.
+- Time Complexity: The solution operates in O(L) time, where L is the length of the linked list, as each node is visited at most once.
 
 **Problem 5:** 
 - Approach:
