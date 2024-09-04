@@ -14,6 +14,6 @@
 - Approach: A dummy node is used alongside two pointers (fast and slow), with the fast pointer moved n+1 steps ahead to identify and remove the nth node from the end efficiently.
 - Time Complexity: The solution operates in O(L) time, where L is the length of the linked list, as each node is visited at most once.
 
-**Problem 5:** 
-- Approach:
-- Time Complexity:
+**Problem 5:** The solution merges k sorted linked lists into one sorted list using a min-heap (priority queue) to efficiently extract and merge the smallest elements.
+- Approach: A priority queue is used to maintain the smallest nodes at the top, allowing for efficient merging by always appending the smallest node to the result list and pushing the next node from the extracted list into the heap.
+- Time Complexity: The solution operates in O(N log k) time, where N is the total number of nodes across all lists and k is the number of lists, due to heap operations that log k times for each node.
