@@ -3,12 +3,12 @@ project(Danny616_github_io)
 
 set(CMAKE_CXX_STANDARD 14)
 
-# Add executable for Problem 1
 add_executable(Problem_1
         "CS497-Fall-2024-InterviewSkills/Assignment 1/mywork/Problem 1.cpp"
 )
-
-# Add executable for Problem 2
 add_executable(Problem_2
         "CS497-Fall-2024-InterviewSkills/Assignment 1/mywork/Problem 2.cpp"
+)
+add_executable(Problem_3
+        "CS497-Fall-2024-InterviewSkills/Assignment 1/mywork/Problem 3.cpp"
 )

@@ -6,9 +6,9 @@
 - Approach: We employ two binary search functions: one to find the first occurrence of the target (left boundary) and another to find the last occurrence (right boundary) by adjusting search boundaries based on comparisons.
 - Time Complexity: The solution runs in O(log n) time since each helper function performs a binary search on the array, making it efficient for large datasets.
 
-**Problem 3:** 
-- Approach:
-- Time Complexity:
+**Problem 3:**  The solution finds the median of two sorted arrays using binary search, ensuring efficient partitioning of the arrays.
+- Approach: Perform a binary search on the smaller array to find the correct partition such that the left and right partitions of the combined arrays are balanced. Calculate the median based on the partition values.
+- Time Complexity: The solution operates in O(log(m + n)) time, where m and n are the sizes of the two arrays, due to the binary search on the smaller array.
 
 **Problem 4:** 
 - Approach:
