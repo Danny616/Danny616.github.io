@@ -30,3 +30,6 @@ add_executable(2Problem_3
 add_executable(2Problem_4
         "CS497-Fall-2024-InterviewSkills/Assignment 2/mywork/Problem 4.cpp"
 )
+add_executable(2Problem_5
+        "CS497-Fall-2024-InterviewSkills/Assignment 2/mywork/Problem 5.cpp"
+)

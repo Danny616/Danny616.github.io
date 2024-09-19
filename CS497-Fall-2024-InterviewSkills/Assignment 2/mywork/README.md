@@ -52,3 +52,20 @@
 
 - **Space Complexity:**
   - O(1) extra space, limited by the constant number of possible lowercase English letters (26).
+---
+**Problem 5:** The solution uses a prefix sum array and a monotonic deque to find the length of the shortest subarray with a sum of at least `k`. This approach efficiently handles large input sizes by using a sliding window technique.
+
+- **Approach:**
+  - **Prefix Sum Array:** Construct a prefix sum array where `prefix[i]` stores the sum of elements from the start up to the `i-th` index in `nums`.
+  - **Deque for Efficient Window Management:** Use a deque to store indices of the prefix sum array in increasing order. This helps maintain the minimum subarray size that meets the sum condition.
+  - **Iterate Through Prefix Sum:** As you iterate through the prefix sum array:
+    - Maintain the deque to ensure the difference between the current prefix sum and the smallest prefix sum in the deque is at least `k`.
+    - Update the length of the shortest subarray when the condition is satisfied.
+    - Remove elements from the deque that are greater than or equal to the current prefix sum to maintain the monotonic order.
+  - **Return the Result:** If a valid subarray is found, return its length; otherwise, return `-1`.
+
+- **Time Complexity:**
+  - O(n), where `n` is the length of the input array, because each element is processed at most twice (added and removed from the deque).
+
+- **Space Complexity:**
+  - O(n) for the prefix sum array and the deque used to store indices.
