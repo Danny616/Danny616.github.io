@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Danny616_github_io",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1Problem_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1Problem_1-Debug-ddd2a03624bd909d30b8.json",
+					"name" : "1Problem_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1Problem_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1Problem_2-Debug-92e5606e90b36f1d61ad.json",
+					"name" : "1Problem_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1Problem_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1Problem_3-Debug-7bed586d508d3ac19e3a.json",
+					"name" : "1Problem_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1Problem_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1Problem_4-Debug-aae5a408ba6e2d07180f.json",
+					"name" : "1Problem_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1Problem_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1Problem_5-Debug-c689b81b801e65016c7b.json",
+					"name" : "1Problem_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2Problem_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2Problem_1-Debug-68d3c90177158f8965b1.json",
+					"name" : "2Problem_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2Problem_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2Problem_2-Debug-ff951e527929188b004f.json",
+					"name" : "2Problem_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2Problem_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2Problem_3-Debug-4d8fd545213f3b4bcdbe.json",
+					"name" : "2Problem_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2Problem_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2Problem_4-Debug-2f574453ca57113d2a41.json",
+					"name" : "2Problem_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2Problem_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2Problem_5-Debug-6985ff9e6551bd6b57c0.json",
+					"name" : "2Problem_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug",
+		"source" : "/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
