@@ -48,3 +48,18 @@ add_executable(3Problem_4
 add_executable(3Problem_5
         "CS497-Fall-2024-InterviewSkills/Assignment 3/mywork/Problem 5.cpp"
 )
+add_executable(4Problem_1
+        "CS497-Fall-2024-InterviewSkills/Assignment 4/mywork/Problem 1.cpp"
+)
+add_executable(4Problem_2
+        "CS497-Fall-2024-InterviewSkills/Assignment 4/mywork/Problem 2.cpp"
+)
+add_executable(4Problem_3
+        "CS497-Fall-2024-InterviewSkills/Assignment 4/mywork/Problem 3.cpp"
+)
+add_executable(4Problem_4
+        "CS497-Fall-2024-InterviewSkills/Assignment 4/mywork/Problem 4.cpp"
+)
+add_executable(4Problem_5
+        "CS497-Fall-2024-InterviewSkills/Assignment 4/mywork/Problem 5.cpp"
+)

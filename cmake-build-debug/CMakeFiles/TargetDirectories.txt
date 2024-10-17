@@ -13,5 +13,10 @@
 /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/3Problem_3.dir
 /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/3Problem_4.dir
 /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/3Problem_5.dir
+/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/4Problem_1.dir
+/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/4Problem_2.dir
+/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/4Problem_3.dir
+/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/4Problem_4.dir
+/Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/4Problem_5.dir
 /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug/CMakeFiles/rebuild_cache.dir
