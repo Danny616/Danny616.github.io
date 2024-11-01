@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_1Problem_1: phony || .
 
 build CMakeFiles/1Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_1.cpp.o: CXX_COMPILER__1Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 1/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_1Problem_1
   DEP_FILE = CMakeFiles/1Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_1.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1Problem_1.dir
   OBJECT_FILE_DIR = CMakeFiles/1Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork
 
@@ -64,7 +64,7 @@ build CMakeFiles/1Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/myw
 # Link the executable 1Problem_1
 
 build 1Problem_1: CXX_EXECUTABLE_LINKER__1Problem_1_Debug CMakeFiles/1Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/1Problem_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -82,7 +82,7 @@ build cmake_object_order_depends_target_1Problem_2: phony || .
 
 build CMakeFiles/1Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_2.cpp.o: CXX_COMPILER__1Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 1/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_1Problem_2
   DEP_FILE = CMakeFiles/1Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1Problem_2.dir
   OBJECT_FILE_DIR = CMakeFiles/1Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork
 
@@ -95,7 +95,7 @@ build CMakeFiles/1Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/myw
 # Link the executable 1Problem_2
 
 build 1Problem_2: CXX_EXECUTABLE_LINKER__1Problem_2_Debug CMakeFiles/1Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/1Problem_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -113,7 +113,7 @@ build cmake_object_order_depends_target_1Problem_3: phony || .
 
 build CMakeFiles/1Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_3.cpp.o: CXX_COMPILER__1Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 1/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_1Problem_3
   DEP_FILE = CMakeFiles/1Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_3.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1Problem_3.dir
   OBJECT_FILE_DIR = CMakeFiles/1Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork
 
@@ -126,7 +126,7 @@ build CMakeFiles/1Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/myw
 # Link the executable 1Problem_3
 
 build 1Problem_3: CXX_EXECUTABLE_LINKER__1Problem_3_Debug CMakeFiles/1Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/1Problem_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_1Problem_4: phony || .
 
 build CMakeFiles/1Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_4.cpp.o: CXX_COMPILER__1Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 1/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_1Problem_4
   DEP_FILE = CMakeFiles/1Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_4.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1Problem_4.dir
   OBJECT_FILE_DIR = CMakeFiles/1Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork
 
@@ -157,7 +157,7 @@ build CMakeFiles/1Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/myw
 # Link the executable 1Problem_4
 
 build 1Problem_4: CXX_EXECUTABLE_LINKER__1Problem_4_Debug CMakeFiles/1Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_4.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/1Problem_4.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -175,7 +175,7 @@ build cmake_object_order_depends_target_1Problem_5: phony || .
 
 build CMakeFiles/1Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_5.cpp.o: CXX_COMPILER__1Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 1/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_1Problem_5
   DEP_FILE = CMakeFiles/1Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_5.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1Problem_5.dir
   OBJECT_FILE_DIR = CMakeFiles/1Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork
 
@@ -188,7 +188,7 @@ build CMakeFiles/1Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/myw
 # Link the executable 1Problem_5
 
 build 1Problem_5: CXX_EXECUTABLE_LINKER__1Problem_5_Debug CMakeFiles/1Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_1/mywork/Problem_5.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/1Problem_5.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -206,7 +206,7 @@ build cmake_object_order_depends_target_2Problem_1: phony || .
 
 build CMakeFiles/2Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_1.cpp.o: CXX_COMPILER__2Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 2/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_2Problem_1
   DEP_FILE = CMakeFiles/2Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_1.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2Problem_1.dir
   OBJECT_FILE_DIR = CMakeFiles/2Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork
 
@@ -219,7 +219,7 @@ build CMakeFiles/2Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/myw
 # Link the executable 2Problem_1
 
 build 2Problem_1: CXX_EXECUTABLE_LINKER__2Problem_1_Debug CMakeFiles/2Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/2Problem_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -237,7 +237,7 @@ build cmake_object_order_depends_target_2Problem_2: phony || .
 
 build CMakeFiles/2Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_2.cpp.o: CXX_COMPILER__2Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 2/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_2Problem_2
   DEP_FILE = CMakeFiles/2Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2Problem_2.dir
   OBJECT_FILE_DIR = CMakeFiles/2Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork
 
@@ -250,7 +250,7 @@ build CMakeFiles/2Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/myw
 # Link the executable 2Problem_2
 
 build 2Problem_2: CXX_EXECUTABLE_LINKER__2Problem_2_Debug CMakeFiles/2Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/2Problem_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -268,7 +268,7 @@ build cmake_object_order_depends_target_2Problem_3: phony || .
 
 build CMakeFiles/2Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_3.cpp.o: CXX_COMPILER__2Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 2/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_2Problem_3
   DEP_FILE = CMakeFiles/2Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_3.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2Problem_3.dir
   OBJECT_FILE_DIR = CMakeFiles/2Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork
 
@@ -281,7 +281,7 @@ build CMakeFiles/2Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/myw
 # Link the executable 2Problem_3
 
 build 2Problem_3: CXX_EXECUTABLE_LINKER__2Problem_3_Debug CMakeFiles/2Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/2Problem_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -299,7 +299,7 @@ build cmake_object_order_depends_target_2Problem_4: phony || .
 
 build CMakeFiles/2Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_4.cpp.o: CXX_COMPILER__2Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 2/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_2Problem_4
   DEP_FILE = CMakeFiles/2Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_4.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2Problem_4.dir
   OBJECT_FILE_DIR = CMakeFiles/2Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork
 
@@ -312,7 +312,7 @@ build CMakeFiles/2Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/myw
 # Link the executable 2Problem_4
 
 build 2Problem_4: CXX_EXECUTABLE_LINKER__2Problem_4_Debug CMakeFiles/2Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_4.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/2Problem_4.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -330,7 +330,7 @@ build cmake_object_order_depends_target_2Problem_5: phony || .
 
 build CMakeFiles/2Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_5.cpp.o: CXX_COMPILER__2Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 2/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_2Problem_5
   DEP_FILE = CMakeFiles/2Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_5.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2Problem_5.dir
   OBJECT_FILE_DIR = CMakeFiles/2Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork
 
@@ -343,7 +343,7 @@ build CMakeFiles/2Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/myw
 # Link the executable 2Problem_5
 
 build 2Problem_5: CXX_EXECUTABLE_LINKER__2Problem_5_Debug CMakeFiles/2Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_2/mywork/Problem_5.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/2Problem_5.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -361,7 +361,7 @@ build cmake_object_order_depends_target_3Problem_1: phony || .
 
 build CMakeFiles/3Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_1.cpp.o: CXX_COMPILER__3Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 3/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_3Problem_1
   DEP_FILE = CMakeFiles/3Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_1.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3Problem_1.dir
   OBJECT_FILE_DIR = CMakeFiles/3Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork
 
@@ -374,7 +374,7 @@ build CMakeFiles/3Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/myw
 # Link the executable 3Problem_1
 
 build 3Problem_1: CXX_EXECUTABLE_LINKER__3Problem_1_Debug CMakeFiles/3Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/3Problem_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -392,7 +392,7 @@ build cmake_object_order_depends_target_3Problem_2: phony || .
 
 build CMakeFiles/3Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_2.cpp.o: CXX_COMPILER__3Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 3/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_3Problem_2
   DEP_FILE = CMakeFiles/3Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3Problem_2.dir
   OBJECT_FILE_DIR = CMakeFiles/3Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork
 
@@ -405,7 +405,7 @@ build CMakeFiles/3Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/myw
 # Link the executable 3Problem_2
 
 build 3Problem_2: CXX_EXECUTABLE_LINKER__3Problem_2_Debug CMakeFiles/3Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/3Problem_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -423,7 +423,7 @@ build cmake_object_order_depends_target_3Problem_3: phony || .
 
 build CMakeFiles/3Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_3.cpp.o: CXX_COMPILER__3Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 3/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_3Problem_3
   DEP_FILE = CMakeFiles/3Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_3.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3Problem_3.dir
   OBJECT_FILE_DIR = CMakeFiles/3Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork
 
@@ -436,7 +436,7 @@ build CMakeFiles/3Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/myw
 # Link the executable 3Problem_3
 
 build 3Problem_3: CXX_EXECUTABLE_LINKER__3Problem_3_Debug CMakeFiles/3Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/3Problem_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -454,7 +454,7 @@ build cmake_object_order_depends_target_3Problem_4: phony || .
 
 build CMakeFiles/3Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_4.cpp.o: CXX_COMPILER__3Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 3/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_3Problem_4
   DEP_FILE = CMakeFiles/3Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_4.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3Problem_4.dir
   OBJECT_FILE_DIR = CMakeFiles/3Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork
 
@@ -467,7 +467,7 @@ build CMakeFiles/3Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/myw
 # Link the executable 3Problem_4
 
 build 3Problem_4: CXX_EXECUTABLE_LINKER__3Problem_4_Debug CMakeFiles/3Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_4.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/3Problem_4.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -485,7 +485,7 @@ build cmake_object_order_depends_target_3Problem_5: phony || .
 
 build CMakeFiles/3Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_5.cpp.o: CXX_COMPILER__3Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 3/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_3Problem_5
   DEP_FILE = CMakeFiles/3Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_5.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3Problem_5.dir
   OBJECT_FILE_DIR = CMakeFiles/3Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork
 
@@ -498,7 +498,7 @@ build CMakeFiles/3Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/myw
 # Link the executable 3Problem_5
 
 build 3Problem_5: CXX_EXECUTABLE_LINKER__3Problem_5_Debug CMakeFiles/3Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_3/mywork/Problem_5.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/3Problem_5.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -516,7 +516,7 @@ build cmake_object_order_depends_target_4Problem_1: phony || .
 
 build CMakeFiles/4Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_1.cpp.o: CXX_COMPILER__4Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 4/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_4Problem_1
   DEP_FILE = CMakeFiles/4Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_1.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4Problem_1.dir
   OBJECT_FILE_DIR = CMakeFiles/4Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork
 
@@ -529,7 +529,7 @@ build CMakeFiles/4Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/myw
 # Link the executable 4Problem_1
 
 build 4Problem_1: CXX_EXECUTABLE_LINKER__4Problem_1_Debug CMakeFiles/4Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/4Problem_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -547,7 +547,7 @@ build cmake_object_order_depends_target_4Problem_2: phony || .
 
 build CMakeFiles/4Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_2.cpp.o: CXX_COMPILER__4Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 4/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_4Problem_2
   DEP_FILE = CMakeFiles/4Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4Problem_2.dir
   OBJECT_FILE_DIR = CMakeFiles/4Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork
 
@@ -560,7 +560,7 @@ build CMakeFiles/4Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/myw
 # Link the executable 4Problem_2
 
 build 4Problem_2: CXX_EXECUTABLE_LINKER__4Problem_2_Debug CMakeFiles/4Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/4Problem_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -578,7 +578,7 @@ build cmake_object_order_depends_target_4Problem_3: phony || .
 
 build CMakeFiles/4Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_3.cpp.o: CXX_COMPILER__4Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 4/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_4Problem_3
   DEP_FILE = CMakeFiles/4Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_3.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4Problem_3.dir
   OBJECT_FILE_DIR = CMakeFiles/4Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork
 
@@ -591,7 +591,7 @@ build CMakeFiles/4Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/myw
 # Link the executable 4Problem_3
 
 build 4Problem_3: CXX_EXECUTABLE_LINKER__4Problem_3_Debug CMakeFiles/4Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/4Problem_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -609,7 +609,7 @@ build cmake_object_order_depends_target_4Problem_4: phony || .
 
 build CMakeFiles/4Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_4.cpp.o: CXX_COMPILER__4Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 4/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_4Problem_4
   DEP_FILE = CMakeFiles/4Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_4.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4Problem_4.dir
   OBJECT_FILE_DIR = CMakeFiles/4Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork
 
@@ -622,7 +622,7 @@ build CMakeFiles/4Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/myw
 # Link the executable 4Problem_4
 
 build 4Problem_4: CXX_EXECUTABLE_LINKER__4Problem_4_Debug CMakeFiles/4Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_4.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/4Problem_4.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -640,7 +640,7 @@ build cmake_object_order_depends_target_4Problem_5: phony || .
 
 build CMakeFiles/4Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_5.cpp.o: CXX_COMPILER__4Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 4/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_4Problem_5
   DEP_FILE = CMakeFiles/4Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_5.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4Problem_5.dir
   OBJECT_FILE_DIR = CMakeFiles/4Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork
 
@@ -653,12 +653,167 @@ build CMakeFiles/4Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/myw
 # Link the executable 4Problem_5
 
 build 4Problem_5: CXX_EXECUTABLE_LINKER__4Problem_5_Debug CMakeFiles/4Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_4/mywork/Problem_5.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/4Problem_5.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = 4Problem_5
   TARGET_PDB = 4Problem_5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Problem_1
+
+
+#############################################
+# Order-only phony target for 5Problem_1
+
+build cmake_object_order_depends_target_5Problem_1: phony || .
+
+build CMakeFiles/5Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_1.cpp.o: CXX_COMPILER__5Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 5/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_5Problem_1
+  DEP_FILE = CMakeFiles/5Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_1.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5Problem_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/5Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Problem_1
+
+
+#############################################
+# Link the executable 5Problem_1
+
+build 5Problem_1: CXX_EXECUTABLE_LINKER__5Problem_1_Debug CMakeFiles/5Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_1.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/5Problem_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5Problem_1
+  TARGET_PDB = 5Problem_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Problem_2
+
+
+#############################################
+# Order-only phony target for 5Problem_2
+
+build cmake_object_order_depends_target_5Problem_2: phony || .
+
+build CMakeFiles/5Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_2.cpp.o: CXX_COMPILER__5Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 5/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_5Problem_2
+  DEP_FILE = CMakeFiles/5Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_2.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5Problem_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/5Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Problem_2
+
+
+#############################################
+# Link the executable 5Problem_2
+
+build 5Problem_2: CXX_EXECUTABLE_LINKER__5Problem_2_Debug CMakeFiles/5Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_2.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/5Problem_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5Problem_2
+  TARGET_PDB = 5Problem_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Problem_3
+
+
+#############################################
+# Order-only phony target for 5Problem_3
+
+build cmake_object_order_depends_target_5Problem_3: phony || .
+
+build CMakeFiles/5Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_3.cpp.o: CXX_COMPILER__5Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 5/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_5Problem_3
+  DEP_FILE = CMakeFiles/5Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_3.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5Problem_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/5Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Problem_3
+
+
+#############################################
+# Link the executable 5Problem_3
+
+build 5Problem_3: CXX_EXECUTABLE_LINKER__5Problem_3_Debug CMakeFiles/5Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_3.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/5Problem_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5Problem_3
+  TARGET_PDB = 5Problem_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Problem_4
+
+
+#############################################
+# Order-only phony target for 5Problem_4
+
+build cmake_object_order_depends_target_5Problem_4: phony || .
+
+build CMakeFiles/5Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_4.cpp.o: CXX_COMPILER__5Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 5/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_5Problem_4
+  DEP_FILE = CMakeFiles/5Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_4.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5Problem_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/5Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Problem_4
+
+
+#############################################
+# Link the executable 5Problem_4
+
+build 5Problem_4: CXX_EXECUTABLE_LINKER__5Problem_4_Debug CMakeFiles/5Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_4.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/5Problem_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5Problem_4
+  TARGET_PDB = 5Problem_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Problem_5
+
+
+#############################################
+# Order-only phony target for 5Problem_5
+
+build cmake_object_order_depends_target_5Problem_5: phony || .
+
+build CMakeFiles/5Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_5.cpp.o: CXX_COMPILER__5Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 5/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_5Problem_5
+  DEP_FILE = CMakeFiles/5Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_5.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5Problem_5.dir
+  OBJECT_FILE_DIR = CMakeFiles/5Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Problem_5
+
+
+#############################################
+# Link the executable 5Problem_5
+
+build 5Problem_5: CXX_EXECUTABLE_LINKER__5Problem_5_Debug CMakeFiles/5Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_5/mywork/Problem_5.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/5Problem_5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5Problem_5
+  TARGET_PDB = 5Problem_5.dbg
 
 
 #############################################
@@ -694,7 +849,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug
 
-build all: phony 1Problem_1 1Problem_2 1Problem_3 1Problem_4 1Problem_5 2Problem_1 2Problem_2 2Problem_3 2Problem_4 2Problem_5 3Problem_1 3Problem_2 3Problem_3 3Problem_4 3Problem_5 4Problem_1 4Problem_2 4Problem_3 4Problem_4 4Problem_5
+build all: phony 1Problem_1 1Problem_2 1Problem_3 1Problem_4 1Problem_5 2Problem_1 2Problem_2 2Problem_3 2Problem_4 2Problem_5 3Problem_1 3Problem_2 3Problem_3 3Problem_4 3Problem_5 4Problem_1 4Problem_2 4Problem_3 4Problem_4 4Problem_5 5Problem_1 5Problem_2 5Problem_3 5Problem_4 5Problem_5
 
 # =============================================================================
 # Built-in targets
