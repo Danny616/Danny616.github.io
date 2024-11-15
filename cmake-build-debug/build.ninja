@@ -815,6 +815,161 @@ build 5Problem_5: CXX_EXECUTABLE_LINKER__5Problem_5_Debug CMakeFiles/5Problem_5.
   TARGET_FILE = 5Problem_5
   TARGET_PDB = 5Problem_5.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 6Problem_1
+
+
+#############################################
+# Order-only phony target for 6Problem_1
+
+build cmake_object_order_depends_target_6Problem_1: phony || .
+
+build CMakeFiles/6Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_1.cpp.o: CXX_COMPILER__6Problem_1_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 6/mywork/Problem$ 1.cpp || cmake_object_order_depends_target_6Problem_1
+  DEP_FILE = CMakeFiles/6Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_1.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6Problem_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/6Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6Problem_1
+
+
+#############################################
+# Link the executable 6Problem_1
+
+build 6Problem_1: CXX_EXECUTABLE_LINKER__6Problem_1_Debug CMakeFiles/6Problem_1.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_1.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/6Problem_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6Problem_1
+  TARGET_PDB = 6Problem_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6Problem_2
+
+
+#############################################
+# Order-only phony target for 6Problem_2
+
+build cmake_object_order_depends_target_6Problem_2: phony || .
+
+build CMakeFiles/6Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_2.cpp.o: CXX_COMPILER__6Problem_2_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 6/mywork/Problem$ 2.cpp || cmake_object_order_depends_target_6Problem_2
+  DEP_FILE = CMakeFiles/6Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_2.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6Problem_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/6Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6Problem_2
+
+
+#############################################
+# Link the executable 6Problem_2
+
+build 6Problem_2: CXX_EXECUTABLE_LINKER__6Problem_2_Debug CMakeFiles/6Problem_2.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_2.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/6Problem_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6Problem_2
+  TARGET_PDB = 6Problem_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6Problem_3
+
+
+#############################################
+# Order-only phony target for 6Problem_3
+
+build cmake_object_order_depends_target_6Problem_3: phony || .
+
+build CMakeFiles/6Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_3.cpp.o: CXX_COMPILER__6Problem_3_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 6/mywork/Problem$ 3.cpp || cmake_object_order_depends_target_6Problem_3
+  DEP_FILE = CMakeFiles/6Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_3.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6Problem_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/6Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6Problem_3
+
+
+#############################################
+# Link the executable 6Problem_3
+
+build 6Problem_3: CXX_EXECUTABLE_LINKER__6Problem_3_Debug CMakeFiles/6Problem_3.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_3.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/6Problem_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6Problem_3
+  TARGET_PDB = 6Problem_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6Problem_4
+
+
+#############################################
+# Order-only phony target for 6Problem_4
+
+build cmake_object_order_depends_target_6Problem_4: phony || .
+
+build CMakeFiles/6Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_4.cpp.o: CXX_COMPILER__6Problem_4_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 6/mywork/Problem$ 4.cpp || cmake_object_order_depends_target_6Problem_4
+  DEP_FILE = CMakeFiles/6Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_4.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6Problem_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/6Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6Problem_4
+
+
+#############################################
+# Link the executable 6Problem_4
+
+build 6Problem_4: CXX_EXECUTABLE_LINKER__6Problem_4_Debug CMakeFiles/6Problem_4.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_4.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/6Problem_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6Problem_4
+  TARGET_PDB = 6Problem_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6Problem_5
+
+
+#############################################
+# Order-only phony target for 6Problem_5
+
+build cmake_object_order_depends_target_6Problem_5: phony || .
+
+build CMakeFiles/6Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_5.cpp.o: CXX_COMPILER__6Problem_5_unscanned_Debug /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/CS497-Fall-2024-InterviewSkills/Assignment$ 6/mywork/Problem$ 5.cpp || cmake_object_order_depends_target_6Problem_5
+  DEP_FILE = CMakeFiles/6Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_5.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6Problem_5.dir
+  OBJECT_FILE_DIR = CMakeFiles/6Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6Problem_5
+
+
+#############################################
+# Link the executable 6Problem_5
+
+build 6Problem_5: CXX_EXECUTABLE_LINKER__6Problem_5_Debug CMakeFiles/6Problem_5.dir/CS497-Fall-2024-InterviewSkills/Assignment_6/mywork/Problem_5.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/6Problem_5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6Problem_5
+  TARGET_PDB = 6Problem_5.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -849,7 +1004,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/jorgedanielmagana/Documents/GitHub/Danny616.github.io/cmake-build-debug
 
-build all: phony 1Problem_1 1Problem_2 1Problem_3 1Problem_4 1Problem_5 2Problem_1 2Problem_2 2Problem_3 2Problem_4 2Problem_5 3Problem_1 3Problem_2 3Problem_3 3Problem_4 3Problem_5 4Problem_1 4Problem_2 4Problem_3 4Problem_4 4Problem_5 5Problem_1 5Problem_2 5Problem_3 5Problem_4 5Problem_5
+build all: phony 1Problem_1 1Problem_2 1Problem_3 1Problem_4 1Problem_5 2Problem_1 2Problem_2 2Problem_3 2Problem_4 2Problem_5 3Problem_1 3Problem_2 3Problem_3 3Problem_4 3Problem_5 4Problem_1 4Problem_2 4Problem_3 4Problem_4 4Problem_5 5Problem_1 5Problem_2 5Problem_3 5Problem_4 5Problem_5 6Problem_1 6Problem_2 6Problem_3 6Problem_4 6Problem_5
 
 # =============================================================================
 # Built-in targets
