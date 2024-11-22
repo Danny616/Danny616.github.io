@@ -93,3 +93,15 @@ add_executable(6Problem_4
 add_executable(6Problem_5
         "CS497-Fall-2024-InterviewSkills/Assignment 6/mywork/Problem 5.cpp"
 )
+add_executable(7Problem_1
+        "CS497-Fall-2024-InterviewSkills/Assignment 7/mywork/Problem 1.cpp"
+)
+add_executable(7Problem_2
+        "CS497-Fall-2024-InterviewSkills/Assignment 7/mywork/Problem 2.cpp"
+)
+add_executable(7Problem_3
+        "CS497-Fall-2024-InterviewSkills/Assignment 7/mywork/Problem 3.cpp"
+)
+add_executable(7Problem_4
+        "CS497-Fall-2024-InterviewSkills/Assignment 7/mywork/Problem 4.cpp"
+)
